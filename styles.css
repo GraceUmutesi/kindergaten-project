@@ -47,11 +47,9 @@ body{
   }
   
   span{
-    color:lightblue;
-    
+    color:lightblue; 
   }
   .login-box{
-   
     left:70%;
     top:50%;
     position:absolute;

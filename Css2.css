@@ -30,12 +30,10 @@ body{
   
   a:hover{
     color:orange;
-    
   }
   img{
     width: 30%;
     height: 60%;
-    
   }
   .second{
     flex-wrap:wrap;
