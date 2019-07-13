@@ -1,0 +1,71 @@
+body{
+    background-image:url("https://media.istockphoto.com/photos/just-a-little-higher-picture-id544354130");
+    background-size:cover;
+    font:serif;
+  
+  }
+  
+  h1{
+    text-align:center;
+    
+    font-size:30px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: white;
+   
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+  
+  a:hover{
+    color:orange;
+    
+  }
+  
+  .p{
+    color:black;
+    display: inline-block;
+    width: 100px;
+    height: 500px;
+    padding: 5px;
+    border: 10px #d8bfd8; 
+    background-color: #d8bfd8;
+  }
+  
+  span{
+    color:lightblue;
+    
+  }
+  .login-box{
+   
+    left:70%;
+    top:50%;
+    position:absolute;
+    padding-bottom:100px;
+    padding-left:80px;
+    transform:translate(-50px,-50px);
+    background-position:left;
+    border-radius:8px;
+    }
+    .login-box botton[type="submit"]:hover{
+      cursor:pointer;
+    }
+  footer{
+    background-color:#fff5ee;
+    text-align:center;
+    height:75%;
+  }
